@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 <a href="https://www.linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
 **thisistrivial/thisistrivial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
