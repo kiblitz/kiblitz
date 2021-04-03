@@ -1,4 +1,7 @@
-### Hi there 👋 <a href="https://www.linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+### Hi there 👋 <a href="https://www.linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=plastic&logo=linkedin" alt="LinkedIn"></a>
+<!--[![Gabriel Lee Medium](https://github-readme-medium.vercel.app/?username=g-lee13770334)](https://medium.com/@g-lee13770334)
+
+
 <!--
 **thisistrivial/thisistrivial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
