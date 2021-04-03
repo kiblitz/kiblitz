@@ -1,6 +1,6 @@
-### Hello! 
-![Hello!](https://github.com/kiblitz/kiblitz/blob/master/assets/hello.gif)
-
+```python
+Hello there!
+```
 <a href="https://www.linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--red?style=plastic&logo=linkedin" alt="LinkedIn"></a>
 <!--[![Gabriel Lee Medium](https://github-readme-medium.vercel.app/?username=g-lee13770334)](https://medium.com/@g-lee13770334)
 
