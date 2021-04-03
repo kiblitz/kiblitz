@@ -1,8 +1,9 @@
 ```ruby
 CS @ CMU | Incoming SWE Intern @ Google | Former SWE Intern @ Facebook
 ```
-<a href="https://www.linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--blue?style=plastic&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/093b"><img src="https://img.shields.io/badge/LinkedIn--blue?style=plastic&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://g-lee13770334.medium.com/"><img src="https://img.shields.io/badge/Medium--black?style=plastic&logo=medium" alt="Medium"></a>
+<a href="https://lichess.org/@/OzzieShazam/"><img src="https://img.shields.io/badge/Lichess--white?style=plastic&logo=lichess" alt="Lichess"></a>
 
 <!--[![Gabriel Lee Medium](https://github-readme-medium.vercel.app/?username=g-lee13770334)](https://medium.com/@g-lee13770334)
 
