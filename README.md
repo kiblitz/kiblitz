@@ -15,6 +15,8 @@
 ## About
 I like to code
 <!--
+_What are "Old Projects"?_ - Random projects that served no purpose other than resume filler
+
 - Computer Science @ Carnegie Mellon University (Fall 2019 - Winter 2022)
 - Software Engineer Intern
   - Facebook (Summer 2020)
