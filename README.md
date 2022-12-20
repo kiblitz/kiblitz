@@ -13,6 +13,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiblitz&repo=stack-calculator&bg_color=0A0C10&title_color=69A9EC&text_color=F0F3F6&icon_color=F0F3F6&border_color=7A828E)](https://github.com/kiblitz/stack-calculator)
 
 ## About
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiblitz&bg_color=0A0C10&text_color=F0F3F6&icon_color=F0F3F6&border_color=7A828E&hide_title=true&show_icons=true)
+I like to code
+<!--
+- Computer Science @ Carnegie Mellon University (Fall 2019 - Winter 2022)
+- Software Engineer Intern
+  - Facebook (Summer 2020)
+  - Google (Summer 2021)
+  - Jane Street (Summer 2022)
+  - Monad Labs (Winter/Spring 2023)
+- Research Assistant
+  - Gnomad @ Institute for Software Research (Winter/Spring 2022)
+- Teaching Assistant
+  - Intro to Computer Security (Winter/Spring 2022)
+-->
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiblitz&bg_color=0A0C10&text_color=69A9EC&icon_color=F0F3F6&border_color=7A828E&hide_title=true&show_icons=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiblitz&bg_color=0A0C10&text_color=F0F3F6&icon_color=F0F3F6&border_color=7A828E&hide_title=true&langs_count=10)
