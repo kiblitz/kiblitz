@@ -1,4 +1,4 @@
-## Starred Repositories
+## Pinned
 
 ### Templates
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiblitz&repo=rust-sdl2-template&bg_color=0A0C10&title_color=69A9EC&text_color=F0F3F6&icon_color=F0F3F6&border_color=7A828E)](https://github.com/kiblitz/rust-sdl2-template)
