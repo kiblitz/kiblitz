@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiblitz&repo=github-contributions-wallpaper-android&bg_color=transparent&title_color=69A9EC&text_color=F0F3F6&icon_color=F0F3F6&border_color=7A828E)](https://github.com/kiblitz/github-contributions-wallpaper-android)
+
 ## Pinned
 
 ### Templates
